@@ -1,0 +1,2 @@
+rootProject.name='StressmessungPuls'
+include ':app'

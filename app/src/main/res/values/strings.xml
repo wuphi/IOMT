@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">StressmessungPuls</string>
+    <string name="tab_text_1">Messung</string>
+    <string name="tab_text_2">Statistik</string>
+    <string name="tab_text_3">Einstellungen</string>
+    <string name="tab_text_4">Entspannung</string>
+    <!-- Messung-->
+    <string name="txt_stressmessung_hauptueberschrift">Stressmessung - Puls</string>
+    <string name="txt_messdauer_auswahl_unterueberschrift">Messdauer - Auswahl:</string>
+    <string name="btn_standardmessung">Standardmessung:</string>
+    <string name="btn_individualmessung">Individualmessung:</string>
+    <string name="txt_min1">min</string>
+    <string name="txt_min2">min</string>
+    <string name="txt_anweisung1_messung">Bitte Armband eng an Kontaktstelle anlegen</string>
+    <string name="imbtn_stressmessung_herz"></string>
+
+    <string name="txt_view_measurement_norm">Ihr Puls ist im Normalbereich</string>
+    <string name="txt_view_measurement_little_increased">Ihr Puls ist leicht erhöht</string>
+    <string name="txt_view_measurement_increased">Achtung Puls ist erhöht. Zeit für Entspannung</string>
+
+
+    <string name="txt_bpm">BPM</string>
+    <string name="txt_pulsmeldung">Achtung - Puls ist erhöht! - Zeit für Entspannung</string>
+
+    <!-- Statistik-->
+    <string name="txt_statistik_hauptueberschrift">Statistik</string>
+    <string name="txt_auswertung_unterueberschrift">Auswertung</string>
+    <string name="txt_zeitraumwaehlen">Bitte wählen Sie den gewünschten Zeitraum, \n über jenen Sie das durchschnittliche Stresslevel ermitteln wollen, aus!</string>
+    <string name="txt_startdatum_datepicker">Start-Datum</string>
+    <string name="txt_enddatum_datepicker">End-Datum</string>
+    <string name="btn_ergebnis">Ergebnis</string>
+    <string name="txt_ErgebnisDurchschnittlichesStresslevel">Ihr durchschnittliches Stresslevel für den \n eingegebenen Zeitraum beträgt:</string>
+
+    <string name="txt_bpm_stat">BPM</string>
+
+    <!-- Einstellungen-->
+    <string name="txt_erfFkt_hauptueberschrift">Erforderliche Funktionen</string>
+    <string name="txt_gps">GPS</string>
+    <string name="txt_ble">BLE</string>
+    <string name="txt_dbverb">Datenbank- \n verbindung</string>
+    <string name="switchbtn_gps"></string>
+    <string name="switchbtn_ble"></string>
+    <string name="switchbtn_dbverb"></string>
+
+    <!-- Entspannung-->
+    <string name="txt_entspannung_hauptueberschrift">Entspannung</string>
+    <string name="txt_rubriken_unterueberschrift">Rubriken</string>
+    <string name="txt_auswahlRubrik">Wählen Sie Ihren persönlichen \n Entspannungsklang aus einer Rubrik aus</string>
+    <string name="btn_zuletztgehoert">Zuletzt gehört: Titelname</string>
+
+    <!-- Rubrik Klassische Musik-->
+    <string name="txt_klassMusik">Klassische Musik</string>
+    <string name="im_piano"></string>
+    <!-- Rubrik Natursounds-->
+    <string name="txt_natursounds">Natursounds</string>
+    <string name="im_bird">Bird</string>
+    <!-- Rubrik Trommeln-->
+    <string name="txt_drum">Trommeln</string>
+    <string name="im_drum">Drum</string>
+    <!-- Rubrik Meditation-->
+    <string name="txt_meditation">Meditation</string>
+    <string name="im_meditation">Meditation</string>
+
+
+    <!-- Intern in Rubrik Klassische Musik -->
+    <string name="txt_klassMusik_hauptueberschrift">Klassische Musik</string>
+    <string name="im_piano1"></string>
+    <string name="txt_titelauswahl">Wählen Sie einen gewünschten Titel aus</string>
+    <string name="txt_titel1_klassMusik">Titel 1: Beispieltitel</string>
+    <string name="txt_titel2_klassMusik">Titel 2: Beispieltitel</string>
+
+    <!-- Intern in Rubrik Mediation-->
+    <string name="txt_meditation_hauptueberschrift">Meditation</string>
+    <string name="im_meditation1"></string>
+    <string name="txt_titelauswahl_meditation">Wählen Sie einen gewünschten Titel aus</string>
+    <string name="txt_titel1_meditation">Titel 1: Beispieltitel</string>
+    <string name="txt_titel2_meditation">Titel 2: Beispieltitel</string>
+
+
+    <!-- Intern in Rubrik Natursound-->
+    <string name="txt_natursound_hauptueberschrift">Natursounds</string>
+    <string name="im_natursound"></string>
+    <string name="txt_titelauswahl_natursound">Wählen Sie einen gewünschten Titel aus</string>
+    <string name="txt_titel1_natursound">Titel 1: Vogelgezwitscher</string>
+    <string name="txt_titel2_natursound">Titel 2: Bachrauschen</string>
+
+
+    <!-- Intern in Trommeln-->
+    <string name="txt_trommeln_hauptueberschrift">Trommeln</string>
+    <string name="im_trommeln"></string>
+    <string name="txt_titelauswahl_trommeln">Wählen Sie einen gewünschten Titel aus</string>
+    <string name="txt_titel1_trommeln">Titel 1: Beispieltitel</string>
+    <string name="txt_titel2_trommeln">Titel 2: Beispieltitel</string>
+</resources>
