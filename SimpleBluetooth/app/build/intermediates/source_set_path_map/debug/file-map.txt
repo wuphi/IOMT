@@ -1,0 +1,12 @@
+com.example.simplebluetooth.app-appcompat-v7-28.0.0-0 C:\Users\brein\.gradle\caches\transforms-3\6b4a2e82381d94828436df45404462f6\transformed\appcompat-v7-28.0.0\res
+com.example.simplebluetooth.app-coordinatorlayout-28.0.0-1 C:\Users\brein\.gradle\caches\transforms-3\b1633334360715cfe3a6f8adb06e849c\transformed\coordinatorlayout-28.0.0\res
+com.example.simplebluetooth.app-constraint-layout-1.1.3-2 C:\Users\brein\.gradle\caches\transforms-3\cfe1c0c172ba5188e38e225b6ece245a\transformed\constraint-layout-1.1.3\res
+com.example.simplebluetooth.app-support-compat-28.0.0-3 C:\Users\brein\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\res
+com.example.simplebluetooth.app-pngs-4 C:\Users\brein\Git\SimpleBluetooth\app\build\generated\res\pngs\debug
+com.example.simplebluetooth.app-resValues-5 C:\Users\brein\Git\SimpleBluetooth\app\build\generated\res\resValues\debug
+com.example.simplebluetooth.app-rs-6 C:\Users\brein\Git\SimpleBluetooth\app\build\generated\res\rs\debug
+com.example.simplebluetooth.app-mergeDebugResources-7 C:\Users\brein\Git\SimpleBluetooth\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.simplebluetooth.app-mergeDebugResources-8 C:\Users\brein\Git\SimpleBluetooth\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.simplebluetooth.app-merged_res-9 C:\Users\brein\Git\SimpleBluetooth\app\build\intermediates\merged_res\debug
+com.example.simplebluetooth.app-debug-10 C:\Users\brein\Git\SimpleBluetooth\app\src\debug\res
+com.example.simplebluetooth.app-main-11 C:\Users\brein\Git\SimpleBluetooth\app\src\main\res

@@ -1,0 +1,4 @@
+#Sat Nov 05 16:57:12 CET 2022
+base.0=C\:\\Users\\brein\\Git\\SimpleBluetooth\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

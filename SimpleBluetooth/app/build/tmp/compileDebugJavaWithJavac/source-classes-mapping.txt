@@ -1,0 +1,16 @@
+com/example/simplebluetooth/BuildConfig.java
+ com.example.simplebluetooth.BuildConfig
+com/example/simplebluetooth/AppConstant.java
+ com.example.simplebluetooth.AppConstant
+com/example/simplebluetooth/MainActivity.java
+ com.example.simplebluetooth.MainActivity
+ com.example.simplebluetooth.MainActivity$1
+ com.example.simplebluetooth.MainActivity$2
+ com.example.simplebluetooth.MainActivity$3
+ com.example.simplebluetooth.MainActivity$4
+ com.example.simplebluetooth.MainActivity$5
+ com.example.simplebluetooth.MainActivity$6
+ com.example.simplebluetooth.MainActivity$7
+ com.example.simplebluetooth.MainActivity$8
+ com.example.simplebluetooth.MainActivity$8$1
+ com.example.simplebluetooth.MainActivity$ConnectedThread

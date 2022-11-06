@@ -1,0 +1,4 @@
+#Sat Jan 26 14:30:37 CET 2019
+base.0=F\:\\PROJEKTE\\PJ - HomeProjekt\\SimpleBluetooth\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
