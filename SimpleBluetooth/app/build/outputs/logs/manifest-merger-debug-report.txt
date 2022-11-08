@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brein\.gradle\caches\transforms-3\6b4a2e82381d94828436df45404462f6\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brein\.gradle\caches\transforms-3\cfe1c0c172ba5188e38e225b6ece245a\transformed\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brein\.gradle\caches\transforms-3\77fef9e674591950bcdb312dbcf401d3\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
@@ -31,61 +31,61 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brein\.gradle\cache
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brein\.gradle\caches\transforms-3\291a42fa73e3eeac6d62ced0509e36b2\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brein\.gradle\caches\transforms-3\7be635eabbc7d2e0429ebb66408f60a2\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brein\.gradle\caches\transforms-3\adb8331a1be7854fc493e2a3386e6f5b\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
-		INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:5:5-68
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:5:5-68
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:5:22-65
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:5:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:6:5-74
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:6:5-74
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:6:22-71
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:6:22-71
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:7:22-76
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:8:5-81
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:8:22-78
 permission#android.permission.BLUETOOTH
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:10:5-89
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:10:5-89
 	android:label
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:10:61-86
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:10:61-86
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:10:17-60
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:10:17-60
 permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:11:5-69
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:11:5-69
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:11:17-66
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:11:17-66
 permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:12:5-74
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:12:5-74
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:12:17-71
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:12:17-71
 permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:13:5-76
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:13:5-76
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:13:17-73
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:13:17-73
 application
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:15:5-30:19
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:15:5-30:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brein\.gradle\caches\transforms-3\cfe1c0c172ba5188e38e225b6ece245a\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brein\.gradle\caches\transforms-3\cfe1c0c172ba5188e38e225b6ece245a\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brein\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
@@ -95,37 +95,37 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brein\.gra
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\brein\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:18:9-41
 	tools:ignore
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:22:9-48
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:22:9-48
 	android:roundIcon
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:19:9-54
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:19:9-54
 	android:icon
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:21:9-40
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:21:9-40
 activity#com.example.simplebluetooth.MainActivity
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:23:9-29:20
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:23:19-47
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:23:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml:27:27-74
 uses-sdk
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brein\.gradle\caches\transforms-3\6b4a2e82381d94828436df45404462f6\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brein\.gradle\caches\transforms-3\6b4a2e82381d94828436df45404462f6\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\brein\.gradle\caches\transforms-3\cfe1c0c172ba5188e38e225b6ece245a\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
@@ -180,13 +180,13 @@ MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brein\.gradle\caches\tran
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brein\.gradle\caches\transforms-3\7be635eabbc7d2e0429ebb66408f60a2\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brein\.gradle\caches\transforms-3\adb8331a1be7854fc493e2a3386e6f5b\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brein\.gradle\caches\transforms-3\adb8331a1be7854fc493e2a3386e6f5b\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\brein\Git\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brein\Git\IOMT\SimpleBluetooth\app\src\main\AndroidManifest.xml

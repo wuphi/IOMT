@@ -42,6 +42,17 @@
     <string name="switchbtn_ble"></string>
     <string name="switchbtn_dbverb"></string>
 
+    <!-- Bluetooth Settings -->
+    <string name="read_buffer"><![CDATA[<Read Buffer>]]></string>
+    <string name="status">Status:</string>
+    <string name="bluetooth_status"><![CDATA[<Bluetooth Status>]]></string>
+    <string name="bluetooth_on">Bluetooth ON</string>
+    <string name="bluetooth_off">Bluetooth OFF</string>
+    <string name="show_paired_devices">Show paired Devices</string>
+    <string name="discover_new_devices">Discover New Devices</string>
+    <string name="rx">RX:</string>
+    <string name="toggle_led">Toggle LED</string>
+
     <!-- Entspannung-->
     <string name="txt_entspannung_hauptueberschrift">Entspannung</string>
     <string name="txt_rubriken_unterueberschrift">Rubriken</string>
@@ -91,4 +102,7 @@
     <string name="txt_titelauswahl_trommeln">Wählen Sie einen gewünschten Titel aus</string>
     <string name="txt_titel1_trommeln">Titel 1: Beispieltitel</string>
     <string name="txt_titel2_trommeln">Titel 2: Beispieltitel</string>
+
+
+
 </resources>

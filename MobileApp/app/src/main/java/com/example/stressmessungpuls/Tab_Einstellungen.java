@@ -8,6 +8,8 @@ import android.os.Looper;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
+import android.widget.RelativeLayout;
 import android.widget.Switch;
 import android.widget.Toast;
 
@@ -43,6 +45,14 @@ public class Tab_Einstellungen extends Fragment {
             @Override
             public void onClick(View view) {
 
+                // Start NewActivity.class
+                Intent myIntentT = new Intent(getActivity(), BluetoothActivity.class);
+                startActivity(myIntentT);
+
+            }
+            /*@Override
+            public void onClick(View view) {
+
 
                 Switch gpsSwitch = (Switch) view.findViewById(R.id.swi_gps);
                 if(gpsSwitch.isChecked())
@@ -61,7 +71,7 @@ public class Tab_Einstellungen extends Fragment {
                 }
 
 
-            }
+            }*/
         });
 
         return view;
